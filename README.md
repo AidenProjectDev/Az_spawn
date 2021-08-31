@@ -6,7 +6,7 @@ Az_spawn is a script that allows you to choose a place to spawn after your chara
 
 ### Preview
 
-https://youtu.be/
+https://www.youtube.com/watch?v=nw08xLE3iI0&t=2s
 
 ---
 
